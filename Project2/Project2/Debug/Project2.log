@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(115,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(144,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(177,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(186,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(201,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(18): warning C4715: 'toSymbol': 不是所有控制路徑都傳回值
+C:\Users\user\Desktop\final project\Project2\Project2\Source.c(106): warning C4716: 'ket': 必須傳回值
+  Project2.vcxproj -> C:\Users\user\Desktop\final project\Project2\Debug\Project2.exe
